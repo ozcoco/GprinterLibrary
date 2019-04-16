@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">btp</string>
+    <string name="action_scan">扫描</string>
+    <string name="action_connect">连接</string>
+    <string name="action_disconnect">断开</string>
+    <string name="action_connecting">连接中</string>
+    <string name="action_pick">选择</string>
+</resources>
